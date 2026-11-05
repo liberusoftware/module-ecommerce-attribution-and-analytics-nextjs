@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-attribution-and-analytics-nextjs",
+  "capabilityKey": "planned:ecommerce:attribution-and-analytics",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-attribution-and-analytics-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/attribution-and-analytics.md",
+  "presentationPlan": "projects/ecommerce/nextjs/attribution-and-analytics.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
